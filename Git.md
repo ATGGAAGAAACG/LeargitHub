@@ -33,5 +33,4 @@ cat ~/.ssh/id_ed25519.pub (copy it to https://github.com/settings/keys)
 git remote set-url origin <remote-url>
 #pushing your repository to github
 git push
-
-
+```
