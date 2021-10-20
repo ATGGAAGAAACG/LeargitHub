@@ -34,3 +34,5 @@ std:: sting c{3};
 
 Parameters vs Arguments
 Loops(1): for (<initialisation>;<condition>;<loop_process>){<code_block>}
+
+switch only works on integer/cahr types

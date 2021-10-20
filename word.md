@@ -17,3 +17,19 @@ colon   冒号
 20201.Oct.13
 territory
 niche 
+argument 实参
+termino 术语
+automate 自动化
+renewal 续订
+coherently
+attentively
+daunting 令人生畏的
+discourse 论述，话语
+matter 问题 事情
+obedience
+infinitives (to do )
+stigmatizing 
+ampersand symbol (&)
+dilation 膨胀，扩张
+blobs n斑点，v溅污
+fast-forward 快进合并
