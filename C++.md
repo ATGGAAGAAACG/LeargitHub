@@ -1,4 +1,6 @@
 ## the compiler and pre-processor
+
+
 ```bash
 create a new file named mapags.cpp
 $ git add mpags.cpp
@@ -36,3 +38,7 @@ Parameters vs Arguments
 Loops(1): for (<initialisation>;<condition>;<loop_process>){<code_block>}
 
 switch only works on integer/cahr types
+
+# Python
+### prompt
+spyder
